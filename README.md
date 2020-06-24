@@ -1,4 +1,4 @@
-# cronavirus_tracker
+# Coronavirus Tracker
 
 A Corona Virus Tracker Flutter project.
 
